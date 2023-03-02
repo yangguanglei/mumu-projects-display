@@ -1,7 +1,7 @@
-# mumu-project-display
+# 个人博客网站
 
 #### Description
-项目作品展示
+个人博客作品展示网站
 
 #### Software Architecture
 Software architecture description
